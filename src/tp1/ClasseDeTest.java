@@ -6,7 +6,7 @@
 package tp1;
 
 /**
- * iuerize
+ * Coucou
  * @author celoire
  */
 public class ClasseDeTest {
