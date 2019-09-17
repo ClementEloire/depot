@@ -10,5 +10,5 @@ package tp1;
  * @author celoire
  */
 public class ClasseDeTest {
-    //System.out.println("Hello world");
+    //helloWorld deuxieme du nom
 }
